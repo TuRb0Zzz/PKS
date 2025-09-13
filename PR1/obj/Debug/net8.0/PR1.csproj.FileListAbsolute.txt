@@ -1,0 +1,14 @@
+C:\Users\evgen\PKS\PR1\bin\Debug\net8.0\PR1.exe
+C:\Users\evgen\PKS\PR1\bin\Debug\net8.0\PR1.deps.json
+C:\Users\evgen\PKS\PR1\bin\Debug\net8.0\PR1.runtimeconfig.json
+C:\Users\evgen\PKS\PR1\bin\Debug\net8.0\PR1.dll
+C:\Users\evgen\PKS\PR1\bin\Debug\net8.0\PR1.pdb
+C:\Users\evgen\PKS\PR1\obj\Debug\net8.0\PR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evgen\PKS\PR1\obj\Debug\net8.0\PR1.AssemblyInfoInputs.cache
+C:\Users\evgen\PKS\PR1\obj\Debug\net8.0\PR1.AssemblyInfo.cs
+C:\Users\evgen\PKS\PR1\obj\Debug\net8.0\PR1.csproj.CoreCompileInputs.cache
+C:\Users\evgen\PKS\PR1\obj\Debug\net8.0\PR1.dll
+C:\Users\evgen\PKS\PR1\obj\Debug\net8.0\refint\PR1.dll
+C:\Users\evgen\PKS\PR1\obj\Debug\net8.0\PR1.pdb
+C:\Users\evgen\PKS\PR1\obj\Debug\net8.0\PR1.genruntimeconfig.cache
+C:\Users\evgen\PKS\PR1\obj\Debug\net8.0\ref\PR1.dll
