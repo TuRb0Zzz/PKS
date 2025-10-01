@@ -1,0 +1,15 @@
+C:\Users\evgen\PKS\PR1.2\second\bin\Debug\net8.0\second.exe
+C:\Users\evgen\PKS\PR1.2\second\bin\Debug\net8.0\second.deps.json
+C:\Users\evgen\PKS\PR1.2\second\bin\Debug\net8.0\second.runtimeconfig.json
+C:\Users\evgen\PKS\PR1.2\second\bin\Debug\net8.0\second.dll
+C:\Users\evgen\PKS\PR1.2\second\bin\Debug\net8.0\second.pdb
+C:\Users\evgen\PKS\PR1.2\second\obj\Debug\net8.0\second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evgen\PKS\PR1.2\second\obj\Debug\net8.0\second.AssemblyInfoInputs.cache
+C:\Users\evgen\PKS\PR1.2\second\obj\Debug\net8.0\second.AssemblyInfo.cs
+C:\Users\evgen\PKS\PR1.2\second\obj\Debug\net8.0\second.csproj.CoreCompileInputs.cache
+C:\Users\evgen\PKS\PR1.2\second\obj\Debug\net8.0\second.sourcelink.json
+C:\Users\evgen\PKS\PR1.2\second\obj\Debug\net8.0\second.dll
+C:\Users\evgen\PKS\PR1.2\second\obj\Debug\net8.0\refint\second.dll
+C:\Users\evgen\PKS\PR1.2\second\obj\Debug\net8.0\second.pdb
+C:\Users\evgen\PKS\PR1.2\second\obj\Debug\net8.0\second.genruntimeconfig.cache
+C:\Users\evgen\PKS\PR1.2\second\obj\Debug\net8.0\ref\second.dll
